@@ -1,0 +1,17 @@
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[user]
+	name = Lorna Jane Mitchell
+	email = lorna@lornajane.net
+[diff]
+	tool = vimdiff
+[push]
+	default = simple
+[core]
+	excludesfile = /home/lorna/.gitignore_global
+	editor = vim
+	autocrlf = input
+[credential]
+	helper = cache --timeout=14400
